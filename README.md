@@ -62,6 +62,7 @@ The script will perform the following:
 The following regression models are used in this project:
 
 * **Linear Regression:**  A simple linear model to predict car prices based on the input features.
+  
 * **Decision Tree Regressor:**  A tree-based model that splits the data into branches based on features to predict the target.
 * Random Forest Regressor: An ensemble of decision trees, which aggregates predictions from multiple decision trees for better accuracy.
 * Gradient Boosting Regressor: An ensemble model that builds trees sequentially, with each tree improving the prediction of the previous one.
@@ -71,8 +72,8 @@ The following regression models are used in this project:
 The models are evaluated based on the following metrics:
 
 * **R-squared (R²):** The proportion of variance explained by the model.
-* Mean Squared Error (MSE): The average squared difference between actual and predicted values.
-* Mean Absolute Error (MAE): The average of the absolute errors between the predicted and actual values.
+* **Mean Squared Error (MSE):** The average squared difference between actual and predicted values.
+* **Mean Absolute Error (MAE):** The average of the absolute errors between the predicted and actual values.
   
 # Feature Importance
 **The Random Forest Regressor**  model is used to analyze the importance of features. 
