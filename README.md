@@ -72,6 +72,7 @@ The following regression models are used in this project:
 The models are evaluated based on the following metrics:
 
 * **R-squared (R²):** The proportion of variance explained by the model.
+  
 * **Mean Squared Error (MSE):** The average squared difference between actual and predicted values.
 * **Mean Absolute Error (MAE):** The average of the absolute errors between the predicted and actual values.
   
