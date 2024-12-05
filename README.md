@@ -34,7 +34,8 @@ This repository contains a car price prediction model using various regression t
 The dataset used for this project is the "Car Price Prediction" dataset. It contains various features about the cars, including:
 
 * **Make, Model, Year:**  Categorical features describing the car.
-* Horsepower, Engine Size, Curb Weight:**  Numerical features.
+  
+* **Horsepower, Engine Size, Curb Weight:**  Numerical features.
 * **Price:**  The target variable (car price).
   
 ## Setup
