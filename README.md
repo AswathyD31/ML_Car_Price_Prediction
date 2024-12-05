@@ -82,3 +82,6 @@ The models are evaluated based on the following metrics:
 
 # Hyperparameter Tuning
 **GridSearchCV** and **RandomizedSearchCV** are used to optimize the hyperparameters of the Random Forest Regressor and Gradient Boosting Regressor models. This helps in improving model performance by selecting the best parameters.
+
+# Conclusion
+**Best Model:**  **Random Forest Regressor** has the best performance with the lowest MSE (0.0719) and highest R² (0.9591), indicating it explains about 96% of the variance in car prices and has minimal prediction errors.
